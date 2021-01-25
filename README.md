@@ -1,6 +1,9 @@
 # SideProject_ShipDa-DAY3-
 SideProject_ShipDa(DAY2~DAY3)
 
+#참고하고 있는 모델 사이트
+https://www.ship-da.com/
+
 #3일차 완성된 부분
 - FCL/LCL 게시판 리스트, 글 작성, 글 읽기 구현
 - 포워딩 회사 견적을 위한 유료결제시스템 연결
