@@ -1,5 +1,5 @@
 # SideProject_ShipDa-DAY3-
-SideProject_ShipDa(DAY2~DAY3)
+SideProject_ShipDa(24/01 ~ 25/01)
 
 #참고하고 있는 모델 사이트
 https://www.ship-da.com/
